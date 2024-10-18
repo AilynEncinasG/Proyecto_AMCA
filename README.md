@@ -14,7 +14,7 @@ El proyecto está orientado a crear un sistema de reservas para la empresa **LON
 | ROL/ FUNCION | APELLIDOS | NOMBRES |
 | ------------ | ------------ | ------------ |
 |Coach      | Tintaya Ramos      | Marioly Belen      |
-| Analista de Calidad de Software | Encinas Gutierrez        | Ailyn Lenny     |
+| Programador Front End   | Encinas Gutierrez        | Ailyn Lenny     |
 | Programador Front End       | Montaño Laura        | Carlos Walter     |
 | Programador Back End       | Thompson Villalobos        | Alvaro Fabian     |
 ## HERRAMIENTAS DE DESAROLLO
