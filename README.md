@@ -4,7 +4,7 @@ Este repositoria se usara para desarrollar el proyecto de AMCA
 
 ## *INFORMACION DEL PROYECTO*
 
-El proyecto está orientado a crear un sistema de reservas para la empresa **LONDON TRAVEL**, con el fin de ofrecer una solución que permita un control integral en la reserva de tours, la gestión de rutas y los pagos. Este sistema busca ser agradable para los administradores y ofrecer herramientas para gestionar la información y mantener el sistema al día. La propuesta busca mejorar la operatividad y reforzar el control administrativo en la empresa.
+El proyecto está orientado a crear un sistema de reservas para la empresa **LONDON TRAVEL**, con el fin de ofrecer una solución que permita un control integral en la reserva de tours, la gestión de rutas y los pagos. Este sistema busca ser amigable para los administradores y ofrecer herramientas para gestionar la información y mantener el sistema al día. La propuesta busca mejorar la operatividad y reforzar el control administrativo en la empresa.
 
 ## NOMBRE DEL PROYECTO
 
